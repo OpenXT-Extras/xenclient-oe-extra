@@ -1,0 +1,6 @@
+local.settings
+repos
+oeenv
+*~
+build/
+sources/

@@ -1,0 +1,11 @@
+
+OpenXT OpenEmbedded proprietary repository
+=============================================
+
+1. Check out as $OE_XENCLIENT_DIR/repos/extra
+
+2. Add $OE_XENCLIENT_DIR to BBPATH in oeenv.
+
+3. Add "require conf/xenclient-extra.conf" to local.conf
+
+do_build.sh does all of the above automatically.
